@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#para1 {
+      width:60%;
+      text-align: center;
+}
+
+.contact{
+    padding-left: 1000px;
+    margin-top:0px;
+    width: 40%;
+    
+}
+
+img{
+    float:left;
+}
+
+body{
+    background-color:#effee7;
+}
+
+a{
+    color:red;
+}
